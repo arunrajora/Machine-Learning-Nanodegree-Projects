@@ -1,5 +1,5 @@
-# My projects for machine Learning nanodegree.
----
+# machine Learning nanodegree projects.
+
 
 ## List of Projects-
 
